@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character sprite="fakepico" icon="pico" color="#7B7B7B" holdTime="6.1">
+<character sprite="fakepico" camy="105" icon="pico" color="#7B7B7B" holdTime="6.1">
 	<anim name="idle" anim="fakepico idle" x="0" y="1" fps="24" loop="false"/>
 	<anim name="singUP" anim="fakepico up" x="1" y="1" fps="24" loop="false"/>
 	<anim name="singLEFT" anim="fakepico left" x="3" y="4" fps="24" loop="false"/>

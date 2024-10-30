@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="fgstuff.png" width="6008" height="1502">
+	<SubTexture name="fgframe1" x="1" y="1" width="2000" height="1500" frameX="-0" frameY="-0" frameWidth="2000" frameHeight="1500"/>
+	<SubTexture name="fgframe2" x="2004" y="1" width="2000" height="1500" frameX="-0" frameY="-0" frameWidth="2000" frameHeight="1500"/>
+	<SubTexture name="fgframe3" x="4007" y="1" width="2000" height="1500" frameX="-0" frameY="-0" frameWidth="2000" frameHeight="1500"/>
+</TextureAtlas>
