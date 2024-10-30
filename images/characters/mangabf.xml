@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mangabf.png">
+<SubTexture name="mangabf right0000" x="1488" y="1635" width="500" height="710" frameX="-1108" frameY="-365" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf right0001" x="1488" y="1635" width="500" height="710" frameX="-1108" frameY="-365" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf right0002" x="984" y="1635" width="504" height="714" frameX="-1108" frameY="-361" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf right0003" x="984" y="1635" width="504" height="714" frameX="-1108" frameY="-361" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf right0004" x="492" y="1635" width="492" height="720" frameX="-1108" frameY="-355" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf right0005" x="0" y="1635" width="492" height="722" frameX="-1108" frameY="-353" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf left0000" x="2535" y="0" width="437" height="694" frameX="-1048" frameY="-382" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf left0001" x="2535" y="0" width="437" height="694" frameX="-1048" frameY="-382" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf left0002" x="2097" y="745" width="437" height="699" frameX="-1046" frameY="-377" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf left0003" x="2097" y="745" width="437" height="699" frameX="-1046" frameY="-377" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf left0004" x="1988" y="1635" width="446" height="705" frameX="-1053" frameY="-371" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf left0005" x="1988" y="1635" width="446" height="705" frameX="-1053" frameY="-371" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf down0000" x="2972" y="0" width="421" height="665" frameX="-1107" frameY="-407" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf down0001" x="2972" y="0" width="421" height="665" frameX="-1107" frameY="-407" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf down0002" x="2535" y="1375" width="420" height="668" frameX="-1107" frameY="-404" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf down0003" x="2535" y="1375" width="420" height="668" frameX="-1107" frameY="-404" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf down0004" x="2535" y="694" width="436" height="681" frameX="-1097" frameY="-391" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf down0005" x="2535" y="694" width="436" height="681" frameX="-1097" frameY="-391" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf up0000" x="0" y="0" width="550" height="871" frameX="-1110" frameY="-195" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf up0001" x="0" y="0" width="550" height="871" frameX="-1110" frameY="-195" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf up0002" x="550" y="0" width="550" height="868" frameX="-1110" frameY="-198" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf up0003" x="550" y="0" width="550" height="868" frameX="-1110" frameY="-198" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf up0004" x="1100" y="0" width="559" height="845" frameX="-1110" frameY="-221" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf up0005" x="1100" y="0" width="559" height="845" frameX="-1110" frameY="-221" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf idle0000" x="2097" y="0" width="438" height="745" frameX="-1105" frameY="-331" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf idle0001" x="2097" y="0" width="438" height="745" frameX="-1105" frameY="-331" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf idle0002" x="1659" y="753" width="436" height="747" frameX="-1105" frameY="-329" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf idle0003" x="1659" y="753" width="436" height="747" frameX="-1105" frameY="-329" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf idle0004" x="1659" y="0" width="438" height="753" frameX="-1105" frameY="-323" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf idle0005" x="1659" y="0" width="438" height="753" frameX="-1105" frameY="-323" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf idle0006" x="889" y="871" width="441" height="760" frameX="-1105" frameY="-316" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf idle0007" x="889" y="871" width="441" height="760" frameX="-1105" frameY="-316" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf idle0008" x="445" y="871" width="444" height="763" frameX="-1105" frameY="-313" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf idle0009" x="445" y="871" width="444" height="763" frameX="-1105" frameY="-313" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="mangabf idle0010" x="0" y="871" width="445" height="764" frameX="-1105" frameY="-312" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>
