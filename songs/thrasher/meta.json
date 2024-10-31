@@ -10,7 +10,8 @@
 	"needsVoices": true,
 	"parsedColor": -8684677,
 	"displayName": "THRASHER",
-	"icon": "Icon",
+	"icon": "pico",
 	"name": "thrasher",
-	"color": "#7B7B7B"
+	"color": "#7B7B7B",
+	"customValues": {}
 }

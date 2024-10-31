@@ -39,7 +39,7 @@ function stepHit() {
                 spr.visible = false;
             }
             fg.alpha = 1;
-            insert(10, video);
+            insert(12, video);
             video.play();
             defaultCamZoom = 0.8;
             dad.cameraOffset.y = 105;

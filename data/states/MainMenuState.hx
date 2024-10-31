@@ -1,4 +1,6 @@
 // FUCK
+import funkin.options.OptionsMenu;
+
 
 function postCreate() {
     forceCenterX = false;

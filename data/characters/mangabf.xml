@@ -5,4 +5,8 @@
 	<anim name="singLEFT" anim="mangabf left" x="-2" y="-6" fps="24" loop="false"/>
 	<anim name="singRIGHT" anim="mangabf right" x="2" y="-2" fps="24" loop="false"/>
 	<anim name="singDOWN" anim="mangabf down" x="-2" y="0" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="mangabf up" x="1" y="-8" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="mangabf left" x="-2" y="-6" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="mangabf right" x="2" y="-2" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="mangabf down" x="-2" y="0" fps="24" loop="false"/>
 </character>
