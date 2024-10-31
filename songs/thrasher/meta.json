@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 180,
+	"difficulties": [
+		"thrashed"
+	],
+	"needsVoices": true,
+	"parsedColor": -8684677,
+	"displayName": "THRASHER",
+	"icon": "Icon",
+	"name": "thrasher",
+	"color": "#7B7B7B"
+}

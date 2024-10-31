@@ -1,5 +1,5 @@
 <!DOCTYPE codename-engine-character>
-<character sprite="mangabf" flipX="true" isPlayer="true" icon="bf" color="#7B7B7B" holdTime="6.1">
+<character sprite="mangabf" scale="0.75" flipX="true" isPlayer="true" icon="bf" color="#7B7B7B" holdTime="6.1">
 	<anim name="idle" anim="mangabf idle" x="0" y="6" fps="24" loop="false"/>
 	<anim name="singUP" anim="mangabf up" x="1" y="-8" fps="24" loop="false"/>
 	<anim name="singLEFT" anim="mangabf left" x="-2" y="-6" fps="24" loop="false"/>
